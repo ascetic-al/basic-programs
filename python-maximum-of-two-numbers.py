@@ -1,4 +1,4 @@
-# A program that asks the user for two numbers, 
+# A program that asks the user for two numbers, one after the other,
 # then checks whether the numbers are equal,
 # in which case it prints the string "Those numbers are equal". 
 # If they aren't equal, it finds the larger number of those two and prints it.
