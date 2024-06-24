@@ -5,7 +5,7 @@
 num = int(input('Type a number of which you want to find factorial: '))
 
 # A variable to keep track of the number that user input,
-# needed for the final print funciton of the program.
+# needed for the final print function of the program.
 # Of course this, as well as the entire program, 
 # could be written in a thousand different ways,
 # but this is what I did.
