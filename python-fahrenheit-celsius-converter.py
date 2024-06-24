@@ -12,7 +12,7 @@ choice = int(input('If you want to convert degrees Fahrenheit to Celsius, input 
 # is the one that the program executes.
 # If it isn't 0, it checks again whether it's 1, maybe?
 # If it is 1, the program executes the part below the elif conditional.
-# If isn't any of those two, the else part is the one that the program executes.
+# If it isn't any of those two, the else part is the one that the program executes.
 if choice == 0:
     degrees_fahrenheit = float(input('How many degrees Fahrenheit to convert to Celsius: '))
     converted_fahrenheit = (degrees_fahrenheit - 32) / 1.8
