@@ -1,1 +1,1 @@
-This is a repository for the simple programs I wrote in Python when drilling my skills.
+This is a repository for the simple programs I wrote while drilling my skills.
