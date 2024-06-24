@@ -4,6 +4,13 @@
 
 num = int(input('Type a number of which you want to find factorial: '))
 
+# A variable to keep track of the number that user input,
+# needed for the final print funciton of the program.
+# Of course this, as well as the entire program, 
+# could be written in a thousand different ways,
+# but this is what I did.
+saved_num = num
+
 # The 'factorial' variable is needed to keep track of
 # the result of the current calculation in the current iteration of the while loop.
 # It's initialized to 1, because 0! == 1.
@@ -16,4 +23,4 @@ while num > 0:
     factorial *= num
     num -= 1
 
-print (factorial)
+print ('Factorial of', saved_num, 'is', factorial)
